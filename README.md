@@ -43,6 +43,12 @@ Detailed build and deployment steps are available inside each component director
 - [AXION UI](./axion-ui/)
 
 ---
+## Screenshots
+
+### AXION Dashboard
+
+![AXION Dashboard](./screenshots/axion-dashboard.png)
+---
 ## What I Implemented
 
 - Containerized individual application components using Docker.
